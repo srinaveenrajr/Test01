@@ -1,0 +1,84 @@
+@media (max-width: 600px) {
+
+
+  #header {
+
+    height: 7%;
+    background-color: #1F4DA8;
+    display: flex;
+
+  }
+
+
+  #logoimg {
+
+    height: 40px;
+
+
+  }
+
+  #Headline {
+
+    font-size: 4.5px;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+  #midheader {
+
+    height: 2%;
+
+  }
+
+  #middlesection {
+
+    display: flex;
+    height: 82%;
+    flex-direction: column;
+  }
+
+  #card {
+
+    margin: 0;
+    margin-left: 80px;
+    height: 300px;
+    width: 200px;
+
+  }
+
+  #midimage {
+
+    margin-right: 20px;
+    margin-left: 80px;
+
+  }
+
+  #midimage1 {
+
+    height: 260px;
+    width: 200px;
+    margin-left: 0px;
+
+
+  }
+
+  #afooter {
+
+    height: 2%;
+    background-color: #F6AE38;
+
+
+  }
+
+
+  #footer {
+
+    height: 7%;
+    background-color: #1F4DA8;
+
+  }
+
+
+
+}
